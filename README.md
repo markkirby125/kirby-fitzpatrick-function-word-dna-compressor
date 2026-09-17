@@ -21,7 +21,7 @@ Add this skill directly to your coding assistant by pasting the **Magic Prompt**
 
 ```markdown
 @agent Install the "kirby-fitzpatrick-function-word-dna-compressor" skill:
-1. Ensure ~/.gemini/config/skills, ~/.cursor/skills, ~/.codeium/windsurf/skills, ~/.grok/skills, ~/.kimi-code/skills, and ~/.reasonix/skills exist.
+1. Ensure ~/.gemini/config/skills, ~/.cursor/skills, ~/.cursor/skills-cursor, ~/.codeium/windsurf/skills, ~/.grok/skills, ~/.kimi-code/skills, and ~/.reasonix/skills exist.
 2. Clone https://github.com/markkirby125/kirby-fitzpatrick-function-word-dna-compressor.git to ~/.agents/skills/kirby-fitzpatrick-function-word-dna-compressor.
 3. Symlink ~/.agents/skills/kirby-fitzpatrick-function-word-dna-compressor to all local AI app skill directories.
 ```
