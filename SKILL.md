@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-function-word-dna-compressor
-description: "Tune content to function word ratio to maximize technical information density."
+description: "Tune content to function word ratio to maximize technical information density." Use this when working on fitzpatrick function word dna compressor.
 category: "Writing & Communication"
 triggers:
   - "function word ratio"
@@ -8,6 +8,9 @@ triggers:
   - "lexical density"
   - "compress function words"
   - "high-signal writing"
+risk: unverified
+author: william-fitzpatrick
+tags: [kirby, ai-agent, workflow]
 ---
 
 # kirby-fitzpatrick-function-word-dna-compressor
@@ -16,3 +19,14 @@ triggers:
 > **Core Architectural Reference**:
 > For operational workflows, rules, and syntactic transformations, see:
 > [`references/00_dispatcher.md`](references/00_dispatcher.md)
+
+
+## Examples
+
+*(Add specific conversational examples here showing how the agent should behave.)*
+
+
+## Limitations (When NOT to Use)
+
+- Do not use this skill outside of its intended scope.
+- Stop and ask the user for clarification if the requirements are ambiguous.
