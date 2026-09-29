@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-function-word-dna-compressor
-description: "Tune content to function word ratio to maximize technical information density." Use this when working on fitzpatrick function word dna compressor.
+description: "Tune content to function word ratio to maximize technical information density. Use this when working on fitzpatrick function word dna compressor."
 category: "Writing & Communication"
 triggers:
   - "function word ratio"
