@@ -9,7 +9,7 @@ triggers:
   - "compress function words"
   - "high-signal writing"
 risk: unverified
-author: william-fitzpatrick
+author: paul-kirby
 tags: [kirby, ai-agent, workflow]
 ---
 
